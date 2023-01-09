@@ -1,7 +1,7 @@
 ﻿using FirstAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace FirstAPI.Views.Services
+namespace FirstAPI.Services
 {
     public interface IDatabaseService
     {

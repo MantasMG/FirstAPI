@@ -1,5 +1,5 @@
 using FirstAPI.Models;
-using FirstAPI.Views.Services;
+using FirstAPI.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

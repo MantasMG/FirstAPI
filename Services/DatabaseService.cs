@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Xml.Linq;
 
-namespace FirstAPI.Views.Services
+namespace FirstAPI.Services
 {
     public class DatabaseService : IDatabaseService
     {
